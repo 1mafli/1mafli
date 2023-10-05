@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1mafli
+- 👋 Hi, I’m @1mafli AKA 1mafla
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
 - 📫 How to reach me bekemafla98@gmail.com
